@@ -4,7 +4,7 @@
 
 **Access this demo site**: https://feature-tour.netlify.app
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/fad6792e-1c44-44db-bd79-ea74b42b0f89/deploy-status)](https://app.netlify.com/sites/feature-tour/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f4ff5f3f-598b-4e2f-bc93-59ed4bdfc22a/deploy-status)](https://app.netlify.com/sites/comforting-faun-9079c0/deploys)
 
 ## About this example site
 
